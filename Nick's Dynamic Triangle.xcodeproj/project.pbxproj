@@ -11,6 +11,7 @@
 		6079817529B290A3002033DD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6079817429B290A3002033DD /* ContentView.swift */; };
 		6079817729B290A3002033DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6079817629B290A3002033DD /* Assets.xcassets */; };
 		6079817A29B290A3002033DD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6079817929B290A3002033DD /* Preview Assets.xcassets */; };
+		6079818129B290CB002033DD /* RandomNumberView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6079818029B290CB002033DD /* RandomNumberView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6079817429B290A3002033DD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6079817629B290A3002033DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6079817929B290A3002033DD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6079818029B290CB002033DD /* RandomNumberView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomNumberView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6079817229B290A3002033DD /* Nick_s_Dynamic_TriangleApp.swift */,
 				6079817429B290A3002033DD /* ContentView.swift */,
+				6079818029B290CB002033DD /* RandomNumberView.swift */,
 				6079817629B290A3002033DD /* Assets.xcassets */,
 				6079817829B290A3002033DD /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6079817529B290A3002033DD /* ContentView.swift in Sources */,
+				6079818129B290CB002033DD /* RandomNumberView.swift in Sources */,
 				6079817329B290A3002033DD /* Nick_s_Dynamic_TriangleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
